@@ -1,2 +1,2 @@
 # goactorframework-service
-A simple RESTful API server for goactorframework 
+A simple RESTful API wrapper for https://github.com/heckdevice/goactorframework-corelib
